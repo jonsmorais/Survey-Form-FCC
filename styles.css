@@ -1,0 +1,14 @@
+h1, p {
+    text-align: center;
+}
+body {
+    display: block;
+}
+div {
+    border: 10px;
+    text-align: center;
+    align-items: center;
+}
+.check-grid {
+    display: flex;
+}
